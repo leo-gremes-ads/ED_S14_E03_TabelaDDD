@@ -1,4 +1,4 @@
-div>
+<div>
   <img src="https://www.fateczl.edu.br/assets/logos/fatec-zl.png" height=100>
   <img src="https://www.fateczl.edu.br/assets/logos/novo-logo-colorido.png" align="right" height=100>
 </div>
@@ -19,6 +19,6 @@ Lista de exercícios para revisão do conteúdo de <b>listas encadeadas</b> e <b
 <b>Respostas<br>
 
 </b>Exercícios 1 e 2 são compostos de testes de mesa<br><b>
-[Exercício 3](https://github.com/leo-gremes-ads/ED_S14_E03_TabelaDDD)<br>
+-> Exercício 3<br>
 [Exercício 4](https://github.com/leo-gremes-ads/ED_S14_E04_HashNumero)<br>
 </b>
